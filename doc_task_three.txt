@@ -1,0 +1,10 @@
+To  run this project these are the required softwares
+1 MySql workbench
+2 java 8+ version
+3 Eclipse or vs code stdio
+4 npm install and npm install axios are need to install in react js terminal 
+
+port address is http://localhost:8080/ 
+
+before run this port have to check the port is running or not 
+plese download the file as zip and extract it and run the project
